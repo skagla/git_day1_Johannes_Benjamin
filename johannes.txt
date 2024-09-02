@@ -1,2 +1,3 @@
 greetings also to you my friend
+from comp
 from github
